@@ -1,2 +1,2 @@
 # aiot
-aiot-restaurant
+有空的話可以幫我多新增一些類似的句子(訓練用)進去csv
